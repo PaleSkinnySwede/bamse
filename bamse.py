@@ -36,7 +36,7 @@ max = 6
 spelplan2 = []
 for i in range(0, len(brickor)) :
     spelplan2.append(brickor[i-1])
-a
+
 spelplan = []
 for i in range(0,len(brickor)) :
     bricka = random.randint(min, len(brickor))
